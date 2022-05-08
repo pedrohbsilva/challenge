@@ -1,0 +1,8 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pedrohbsilva/challenge.git",
+  "author": "pedrohbsilva <phbs1235@gmail.com>",
+  "license": "MIT"
+}
